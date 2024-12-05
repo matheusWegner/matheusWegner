@@ -20,12 +20,13 @@ FullStack developer
 🔧 Tech:
 
   
-  BackEnd:
-    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0eca6769e181842d27850c17afc037ecf3f09ba26a1b508c6854d0cce31694cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/0eca6769e181842d27850c17afc037ecf3f09ba26a1b508c6854d0cce31694cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" style="max-width: 100%;"></a>
-  FrontEnd:
-  
-  Databases:
-
+  BackEnd: </br>
+    <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/0eca6769e181842d27850c17afc037ecf3f09ba26a1b508c6854d0cce31694cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/0eca6769e181842d27850c17afc037ecf3f09ba26a1b508c6854d0cce31694cb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537072696e672d3644423333463f7374796c653d666f722d7468652d6261646765266c6f676f3d737072696e67266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&amp;logo=spring&amp;logoColor=white" style="max-width: 100%;"></a><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8e77945348567678f7ac7879dfb294400492ed429d16392c98db21a7c00934d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/8e77945348567678f7ac7879dfb294400492ed429d16392c98db21a7c00934d2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3030374143433f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" style="max-width: 100%;"></a>  
+  </br>
+  FrontEnd: </br>
+  </br>
+  Databases: </br>
+  </br>
 ### Skills
 
 <p align="left">
