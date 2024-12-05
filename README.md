@@ -4,7 +4,7 @@ FullStack developer
 -------------------
 * 🌍  I'm based in Curitiba , PR - Brazil
 * ✉️  You can contact me at [math.christo@gmail.com](mailto:math.christo@gmail.com)
-* 🧠  I'm learning could
+* 🧠  I'm learning cloud computing
 
 
 ### Badges
